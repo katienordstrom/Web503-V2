@@ -1,0 +1,1 @@
+//create a function that takes an array of only numbers and return the first value
