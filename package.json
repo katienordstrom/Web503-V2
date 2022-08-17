@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/katienordstrom/Web503-V2/issues"
   },
-  "homepage": "https://github.com/katienordstrom/Web503-V2#readme"
+  "homepage": "https://github.com/katienordstrom/Web503-V2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
