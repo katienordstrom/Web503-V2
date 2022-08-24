@@ -1,0 +1,103 @@
+body {
+    font: 16px verdana, sans-serif;
+}
+
+h1 h2 h3 {
+   font: italic small-caps bold "Times New Roman", Times, serif;
+}
+
+h1 { 
+    font-size: 40px;
+    text-shadow: 5px 5px greenyellow;
+}
+
+h2 { 
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.small {
+    font-size: 12px;
+}
+
+.note {
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.light {
+    font-weight: lighter;
+}
+
+.dark {
+    font-weight: bold;
+}
+
+.smcap {
+    font: small-caps;
+}
+
+.search {
+    text-align: right;
+}
+
+.special {
+    text-align: justify;
+}
+
+.footnote {
+    text-align: center;
+}
+
+td { 
+    vertical-align: top;
+}
+
+td.special {
+    vertical-align: middle;
+}
+
+td.footnote {
+    vertical-align: bottom;
+}
+
+.totals {
+    text-decoration: overline;
+}
+
+.edit {
+    text-decoration: line-through;
+}
+
+.alpha {
+    text-transform: lowercase;
+}
+
+.title {
+    text-transform: capitalize;
+}
+
+p.semi {
+text-indent: 50px;
+line-height: 1.5;
+}
+
+p.full {
+text-indent: 10%;
+line-height: 2em;
+}
+
+p.loose {
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+p.compressed {
+    letter-spacing: -1px;
+    word-spacing: -1px;
+}
